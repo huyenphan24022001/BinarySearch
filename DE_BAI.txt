@@ -1,0 +1,5 @@
+Cho dãy số bất kỳ với số lượng n. Thực hiện các yêu cầu sau.
+-	Viết hàm thực hiện chức năng sắp xếp tăng (15đ)
+-	Viết hàm thực hiện thuật toán tìm kiếm nhị phân (15đ)
+-	Chạy từng bước thuật toán tìm kiếm nhị phân trên để tìm kiếm giá trị “6” với dãy số “15,75,31,6, 80” . (20đ)
+Ghi chú: Thực hiện trên giấy
